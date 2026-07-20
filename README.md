@@ -64,7 +64,6 @@ Bienvenue sur mon portfolio ! En tant qu'étudiant passionné par les données e
 
 * **Objectifs :** Développer et comparer les métriques de performance de modèles de classification sur des cas d'usage critiques.
 * **Problématiques et Datasets :**
-  * **Banque (Défaut) :** Probabilité qu'un client fasse défaut sur son prêt. [Dataset Kaggle](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling)
   * **Télécom :** Prédiction de l'attrition client (Churn). [Dataset Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 * **Technologies :** Python, Scikit-learn, GBM, XGBoost.
 * **Compétences acquises :** Régression logistique, SVM, KNN, Naive Bayes, Ensemble Learning, et mise en production d'API prédictives scalables.
@@ -115,6 +114,5 @@ Bienvenue sur mon portfolio ! En tant qu'étudiant passionné par les données e
 
 Ces projets vous inspirent ou vous souhaitez échanger sur ces thématiques ? Suivez-moi sur mes différents réseaux pour ne pas rater mes prochains travaux !
 
-* **LinkedIn :**(https://linkedin.com/in/votre-profil)
-* **Portfolio Web :** (https://github.com/biidy/Nirinifitiavana_sarobidy)
+* **LinkedIn :**(https://www.linkedin.com/in/sarobidy-rakotomalala-23255628b)
 * **Email :** (mailto:nirinifitiavana@gmail.com)
