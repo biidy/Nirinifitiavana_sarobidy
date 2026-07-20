@@ -7,7 +7,7 @@ Bienvenue sur mon portfolio ! En tant qu'étudiant passionné par les données e
 ## 1. Analyse Exploratoire des Données (EDA)
 **Contexte :** Comprendre les données brutes, les nettoyer et formuler des hypothèses solides avant d'appliquer des modèles de machine learning plus complexes.
 
-🔗 ** [Dashboard Interactif (Streamlit/Shiny)]([https://votre-application.streamlit.app](https://eda-fraude-bancaire-gzmcwreejtwhtgf4ftctwy.streamlit.app/))**
+🔗 ** https://eda-fraude-bancaire-gzmcwreejtwhtgf4ftctwy.streamlit.app/**
 
 * **Objectifs :** Comprendre la distribution des données, identifier les variables importantes et déployer des visualisations interactives pour les parties prenantes.
 * **Problématiques et Datasets :**
